@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 2314475400685812794}
   - component: {fileID: 1832937879979038637}
   - component: {fileID: 725388518997460055}
+  - component: {fileID: 3451314203042347475}
   m_Layer: 0
   m_Name: PET Bottle
   m_TagString: Untagged
@@ -146,3 +147,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bottlePrefab: {fileID: 0}
   maxDistance: 0.2
+--- !u!114 &3451314203042347475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4647461991276943098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15ceb9b17a32d854782b3ad52fbb6dd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

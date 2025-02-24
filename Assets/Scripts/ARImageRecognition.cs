@@ -1,5 +1,7 @@
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
+using UnityEngine.UI;
+using TMPro;
 
 public class ARImageRecognition : MonoBehaviour
 {
